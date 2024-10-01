@@ -1,2 +1,2 @@
 # Tic-Tac-Toe  Game
- Play Tic Tac Toe
+Made using purely javascript with html and css
